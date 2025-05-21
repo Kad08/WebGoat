@@ -9,8 +9,8 @@
 name: Java CI with Maven
 
 on:
-  push:
-    branches: [ "dependabot/maven/com.microsoft.playwright-playwright-1.52.0" ]
+  #push:
+    #branches: [ "dependabot/maven/com.microsoft.playwright-playwright-1.52.0" ]
   pull_request:
     branches: [ "dependabot/maven/com.microsoft.playwright-playwright-1.52.0" ]
 
